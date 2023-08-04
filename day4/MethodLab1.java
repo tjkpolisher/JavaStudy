@@ -5,7 +5,7 @@ public class MethodLab1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		printTitle();
-		System.out.printf("가격은 %d원입니다.",getPrice());
+		System.out.printf("가격은 %,d원입니다.",getPrice());
 	}
 
 	
